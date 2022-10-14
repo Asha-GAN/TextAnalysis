@@ -2,6 +2,8 @@
 
 ##### **해당 코드는 <span style="color:red">서울대학교 빅데이터 혁신공유대학 Dr.야마다 아키히코님</span>이 작성하신 코드를 바탕으로 <span style="color:red">클론코딩</span>하였습니다.**
 
+<br><br>
+
 ## Twitter 사용자들의 Youtube 와 Netflix에 대한 반응 비교
 
 아래 뉴스기사를 접하고 Twitter 사용자들의 `Youtube`와 `Netflix`에 대한 반응을 비교해보았습니다.

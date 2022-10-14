@@ -59,7 +59,7 @@
 
 ### Text 분석
 <img src="./img/frequency_1.png" width="45%" />　　　<img src="./img/frequency_2.png" width="45%" /><br>
-- 검색된 단어의 빈도수를 나타낸다.
+- 검색 단어의 빈도수를 나타낸다.
 <hr>
 
 ## 결과

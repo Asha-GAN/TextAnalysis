@@ -4,9 +4,10 @@
 
 <br><br>
 
-## Twitter 사용자들의 Youtube 와 Netflix에 대한 반응 비교
+# Twitter 사용자들의 Youtube 와 Netflix에 대한 반응 비교
 
 아래 뉴스기사를 접하고 Twitter 사용자들의 `Youtube`와 `Netflix`에 대한 반응을 비교해보았습니다.
+
 [![기사](./img/기사.png)](https://n.news.naver.com/mnews/article/015/0004762256?sid=105)<br>
 <br>
 해당 기사는 넷플릭스의 기존 요금제는 유지한 채 광고를 시청하고 콘텐츠를 시청할 수 있는 요금제가 추가하겠다는 내용입니다. `2022-10-14`에 업로드되었으며 Text Mining 및 Crawling을 실행한 날짜가 `2022-10-15`이므로 <br>

@@ -67,4 +67,4 @@
 <img src="./img/result_1.png" width="20%" />　　　<img src="./img/result_2.png" width="20%" /><br>
 `좌측 - Youtube`　　　　　　　　　`우측 - Netflix`
 - Twitter 사용자들의 Youtube에 대한 반응은 부정적인 인식이 높게 나왔지만 NetFlix의 부정적인 인식보다 약 10배 적게 나왔다.
-- 앞에 소개한 기사와 같이 넷플릭스의 광고 에 대해 좋지 않은 인식이 강해진 것을 알 수 있다.
+- 앞에 소개한 기사와 같이 넷플릭스의 광고에 대해 좋지 않은 인식이 강한 것을 알 수 있다.
